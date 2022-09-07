@@ -5,7 +5,11 @@ def complex_algorithm(input_low: float, input_high: float, adjustment_factor: fl
     return final_result
 
 
+
+
 if __name__ == "__main__":
     result = complex_algorithm(2.5, 4.3, 20.98)
-    print(f'the result is {result}')
+    print()
+    print(f'The result is {result}')
+    print()
 
